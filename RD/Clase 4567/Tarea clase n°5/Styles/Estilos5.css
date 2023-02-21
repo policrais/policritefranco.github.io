@@ -1,0 +1,5 @@
+.negrita{ font-weight: bold;font-size: 20px;color: chocolate;}
+.cursiva{ font-style: italic;font-size: 15px}
+.colordefondoheader{ background-color: salmon;border: 3px solid black ;font-style: italic;margin-top: 1cm;}
+.colordefondofooter{ background-color: rgb(177, 253, 0);border: 2px solid black  ;border-color: aqua ;font-style:unset;}
+.ordenarlista{list-style: none;}

@@ -1,18 +1,18 @@
-.negrita{ font-weight: bold;font-size: 50px;color: chocolate; text-align: center;}
+.negrita{ font-weight: bold;font-size: 50px;color: rgb(0, 0, 0); text-align: center;}
 .cursiva{ font-style: italic;font-size: 15px}
-.colordefondoheader{ background-color: salmon;border: 3px solid black ;font-style: italic;margin-top: 1cm;}
+.negritas{ font-weight: bold;font-size: 20px;color: chocolate;}
+.cursivas{ font-style: italic;font-size: 15px}
+.colordefondoheader{ background-color: rgb(250, 114, 114);border:15px solid black ;font-style: italic;margin-top: 1cm;}
 .colordefondofooter{ background-color: rgb(177, 253, 0);border: 2px solid black  ;border-color: aqua ;font-style:unset;}
 .ordenarlista{list-style: none;font-family:Arial;
     font-weight:bold;
     font-size:13px;}
 .contenedor{display: flex;
-    width: 10px;
-    text-align: center;
     flex-direction: row;
-    
+    padding: 20xpx;
      font-style: italic;
      font-size: 20px;
     }
     .separador{
-        color:gray;border: 1px;text-align: center;
+        color:black;border: 1px;text-align: center; padding: 90px;
     }    
